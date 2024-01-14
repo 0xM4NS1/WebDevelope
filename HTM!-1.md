@@ -20,4 +20,5 @@ An HTML element is defined by a start tag, some content, and an end tag:
 <tagname> Content goes here... </tagname>
 
 HTML Links
-<a href="https://www.w3schools.com">This is a link</a>
+<a href="link">This is a link</a>
+
